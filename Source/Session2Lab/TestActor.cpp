@@ -15,7 +15,7 @@ ATestActor::ATestActor()
 void ATestActor::BeginPlay()
 {
 	Super::BeginPlay();
-	//some test text
+	//some test text that has been changed
 }
 
 // Called every frame
